@@ -3,7 +3,7 @@ coffeescript-scratchpad
 
 CoffeeScript context for Scratchpad. Patch for Firefox.
 
-To play with this, you'll need to apply this patch to a source tree and [build firefox](https://developer.mozilla.org/En/Simple_Firefox_build).
+To play with this, you'll need to [apply this patch](https://developer.mozilla.org/en/Mercurial_Queues) to a source tree and [build firefox](https://developer.mozilla.org/En/Simple_Firefox_build).
 
 https://github.com/robcee/coffeescript-scratchpad/blob/master/coffeescript#L85
 
