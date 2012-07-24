@@ -9,4 +9,4 @@ https://github.com/robcee/coffeescript-scratchpad/blob/master/coffeescript#L85
 
 This line is Bad. This is not how we want to do this, but we should be able to take our selected text in the scratchpad and send it to CoffeeScript.run().
 
-warning: HAX
+warning: __HAX__!
